@@ -1,0 +1,23 @@
+{
+  "name": "cheerio-standalone",
+  "version": "0.22.0",
+  "description": "cheerio for browser",
+  "main": "cheerio.min.js",
+  "scripts": {
+    "test": "echo 42"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEBuster/cheerio-standalone.git"
+  },
+  "keywords": [
+    "cheerio",
+    "standalone",
+    "browser"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WEBuster/cheerio-standalone/issues"
+  },
+  "homepage": "https://github.com/WEBuster/cheerio-standalone#readme"
+}
